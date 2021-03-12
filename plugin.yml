@@ -1,6 +1,6 @@
 name: GM
 main: Gm\Main
-api: 3.0.0
+api: [3.0.0]
 version: 1.1
 author: LeJustin
 
